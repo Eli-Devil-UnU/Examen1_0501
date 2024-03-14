@@ -18,8 +18,10 @@ samples, guidance on mobile development, and a full API reference.
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
 
-## Resultados
+## Resultados y recursos
 
+-![image](https://raw.githubusercontent.com/Eli-Devil-UnU/Examen1_0501/main/Examen1-0501/Captura%20de%20pantalla%202024-03-14%20094105.jpg)
+-![image](https://raw.githubusercontent.com/Eli-Devil-UnU/Examen1_0501/main/Examen1-0501/Captura%20de%20pantalla%202024-03-14%20093947.jpg)
 -![image](https://raw.githubusercontent.com/Eli-Devil-UnU/Examen1_0501/main/examen1/cigarros.jpg)
 -![image](https://raw.githubusercontent.com/Eli-Devil-UnU/Examen1_0501/main/examen1/pipas.jpg)
 -![image](https://raw.githubusercontent.com/Eli-Devil-UnU/Examen1_0501/main/examen1/accesorios.jpg)
